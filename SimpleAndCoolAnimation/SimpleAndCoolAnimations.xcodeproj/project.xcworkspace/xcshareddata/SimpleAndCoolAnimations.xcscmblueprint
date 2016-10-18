@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5121306FD8A085B5DD8471FB44350FAAFF3315DA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5121306FD8A085B5DD8471FB44350FAAFF3315DA" : 9223372036854775807,
+    "150F53ADA46825346D64F91D0A6CF4A9AA6019F2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "94F5CCCD-488A-429B-B533-322F80DD23A6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5121306FD8A085B5DD8471FB44350FAAFF3315DA" : "SimpleAndCoolAnimations\/",
+    "150F53ADA46825346D64F91D0A6CF4A9AA6019F2" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SimpleAndCoolAnimations",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SimpleAndCoolAnimations.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nvovap\/iOSAnimation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "150F53ADA46825346D64F91D0A6CF4A9AA6019F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nvovap\/SimpleAndCoolAnimations.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5121306FD8A085B5DD8471FB44350FAAFF3315DA"
+    }
+  ]
+}
